@@ -1,5 +1,5 @@
 // ESP32 Web Flasher JavaScript
-import { ESPLoader, Transport } from "https://unpkg.com/esptool-js/bundle.js";
+import { ESPLoader, Transport } from "https://unpkg.com/esptool-js@0.5.4/bundle.js";
 
 // DOM Elements
 const connectBtn = document.getElementById('connectBtn');
